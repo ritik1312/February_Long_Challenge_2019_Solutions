@@ -1,3 +1,5 @@
+//Appy and Contest
+
 #include <stdio.h>
 
 long int gcd(long int a,long int b)
